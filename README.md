@@ -38,6 +38,16 @@ Responsive portfolio showcasing everything above — and a little sass.
 
 ---
 
+### 💻 DSA & LeetCode Progress
+
+- 🧠 328+ problems solved on LeetCode  
+- 📊 Strong in Dynamic Programming, Graphs, Bitmasks  
+- 🔥 Current Rank: 316,191 (Top ~7%)
+
+➡️ View my profile: [leetcode.com/u/yc8545908](https://leetcode.com/u/yc8545908/)
+
+---
+
 ### 📫 Connect With Me
 - 🌐 Portfolio: [meetyashika.vercel.app](https://meetyashika.vercel.app)  
 - 💌 Email: chaudharyashikaa@gmail.com  
